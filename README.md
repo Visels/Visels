@@ -1,7 +1,7 @@
 ###  Hi there, I'm Elvis  👋 
 
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on #####my Portfolio
 - 🌱 I’m currently learning Angular JS
 - 👯 I’m looking to collaborate on everything!
 - 🤔 I’m looking for help with internship opportunities.
@@ -28,7 +28,7 @@
 
 <img align="left" alt="Firebase" width="90px" height = "25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" style="padding-right:10px;" />
 
-### Connect with me:
+<!-- ### Connect with me:
 
 (./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 (./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -46,7 +46,7 @@
 (./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
-
+ -->
 
 
 
