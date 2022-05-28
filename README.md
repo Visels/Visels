@@ -29,7 +29,8 @@
 <img align="left" alt="Firebase" width="90px" height = "25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" style="padding-right:10px;" />
 <br>
 <br>
- ### Connect with me:
+
+ ###Connect with me:
 
 
 
