@@ -27,26 +27,11 @@
 <img align="left" alt="Java" width="26px" height = "27px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />
 
 <img align="left" alt="Firebase" width="90px" height = "25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" style="padding-right:10px;" />
-
+<br>
+<br>
  ### Connect with me:
-<!-- jkk -->
-(./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-(./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-(./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-(./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-(./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-(./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-(./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
- -->
 
 
 
