@@ -35,7 +35,8 @@
   <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png" style="padding-right:10px;" />
-    <img align="left" alt="HTML5" height = "36px" width="26px" src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" style="padding-right:10px;" />
+     <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" style="padding-right:10px;" />
+   
     
  
 
