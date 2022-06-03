@@ -39,7 +39,7 @@
    
    
    ###  Connect with me:
- <img align="left" alt="HTML5" width="26px"> 
+ 
 
 
 
