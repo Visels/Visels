@@ -42,8 +42,7 @@
    
    
   ### Projects:
-<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" />
+ ## Mobile Banking System -> Linux, SpringBoot, Angular, Apache and MySql. 
    
  
 
