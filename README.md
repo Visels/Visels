@@ -27,6 +27,9 @@
 <img align="left" alt="Java" width="26px" height = "27px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" style="padding-right:10px;" />
 
 <img align="left" alt="Firebase" width="90px" height = "25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" style="padding-right:10px;" />
+
+<img align="left" alt="Firebase" width="90px" height = "25px" src="https://www.logo.wine/a/logo/Android_(operating_system)/Android_(operating_system)-Logo.wine.svg" style="padding-right:10px;" />
+
 <br>
 <br>
 
