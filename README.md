@@ -3,11 +3,11 @@
 
 <!-- - 🤔 I’m looking for help with . -->
 
-- 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Angular JS
+- 🔭 I’m currently working on Spring-Boot and Angular
+- 🌱 I’m currently learning Angular JS, Spring-Boot
 - 👯 I’m looking to collaborate on everything!
-- 😄 Pronouns: MAESTRO 🤣
-- ⚡ Fun fact: I love football ⚽ 
+- 😄 Pronouns: Adventurous ✈️ 
+- ⚡ Fun fact:I speak four languages!
 
 
 ### Languages and Tools:
