@@ -3,7 +3,7 @@
 
 <!-- - 🤔 I’m looking for help with . -->
 
-- 🔭 I’m currently working on Spring-Boot and Angular
+- 🔭 I’m currently working on fullstack development
 - 🌱 I’m currently learning Angular JS, Spring-Boot
 - 👯 I’m looking to collaborate on everything!
 - 😄 Pronouns: Adventurous ✈️ 
