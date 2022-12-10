@@ -46,8 +46,7 @@
    
    
   ### Projects:
- ####1. Mobile Banking 
-Linux, SpringBoot, Angular, Apache and MySql. 
+ ####1. 
    
  
 
