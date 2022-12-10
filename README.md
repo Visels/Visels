@@ -46,7 +46,7 @@
    
    
   ### Projects:
- ####1. 
+ ####1. powernet - React, Spring-boot, MySQL.
    
  
 
