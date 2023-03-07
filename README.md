@@ -9,6 +9,7 @@
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful projects.
 - ⚡ Fun fact:I speak four languages!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ### Languages and Tools:
 
