@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Angular JS, Spring-Boot
 - 👯 I’m looking to collaborate on everything!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful projects.
-- ⚡ Fun fact:I speak four languages!
+- ⚡ Email:elviskipchumba60@gmail.com
 
 
 
@@ -51,6 +51,7 @@
    
   ### Projects:
  ####1. powernet - React, Spring-boot, MySQL.
+ ####2. Toughy  - www.toughy.co.ke
    
  
 
