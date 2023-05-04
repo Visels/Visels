@@ -51,7 +51,7 @@
   ### Projects:
  ####1. powernet - React, Spring-boot, MySQL.
  <br>
- ####2. Toughy  -   ww
+ ####2. Toughy  -   w
    
  
 
