@@ -51,7 +51,7 @@
   ### Projects:
  ####1. powernet - React, Spring-boot, MySQL.
  <br>
- ####2. Toughy  -   www.toughy.co.ke 
+ ####2. Toughy  -   www.toughy.co.k
    
  
 
