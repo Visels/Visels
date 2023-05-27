@@ -49,7 +49,7 @@
    
    
   ### Projects:
- ####1. powernet - React, Spring-bo
+ ####1. powernet - React, Spring-b
  <br>
  ####2. 
    
