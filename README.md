@@ -49,7 +49,7 @@
    
    
   ### Projects:
- ####1. powernet - React, Spring-boot, MyS
+ ####1. powernet - React, Spring-boot, My
  <br>
  ####2. 
    
