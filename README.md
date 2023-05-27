@@ -49,7 +49,7 @@
    
    
   ### Projects:
- ####1. powernet - React, Sprin
+ ####1. powernet - React, Spri
  <br>
  ####2. 
    
