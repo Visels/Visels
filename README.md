@@ -9,9 +9,11 @@
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful projects.
 - ⚡ Email: elviskoech17@gmail.com
 
-https://github-readme-stats-five-psi-34.vercel.app/
+https://github-readme-stats-five-psi-34.vercel.app
 
-![Anurag's GitHub stats](h[ttps://github-readme-stats.vercel.app](https://github-readme-stats-five-psi-34.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats-five-psi-34.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
