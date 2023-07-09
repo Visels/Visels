@@ -3,11 +3,12 @@
 
 <!-- - 🤔 I’m looking for help with . -->
 
-- 🔭 I’m currently working on fullstack development
-- 🌱 I’m currently learning Angular JS, Spring-Boot
-- 👯 I’m looking to collaborate on everything!
+- 🔭 I’m currently working on Spring Security and DevOps
+- 🌱 I Develop : Angular JS, Spring-Boot, Flask, Django Applications
+- 👯 I’m looking to collaborate on everything interesting!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful  projects.
 - ⚡ Email: elviskipchumba60@gmail.com
+- 💼 Portfolio: <a> www.visels.com </a>
 
 
 
