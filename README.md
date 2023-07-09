@@ -15,8 +15,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true)  [![Top Langs](https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+<!---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
