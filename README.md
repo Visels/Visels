@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&hide_progress=true&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact&card_width=320" />
 </a>
 
 
