@@ -15,7 +15,7 @@ https://github-readme-stats-update-wheat.vercel.app/
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-update-wheat.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
