@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on fullstack development
 - 🌱 I’m currently learning Angular JS, Spring-Boot
 - 👯 I’m looking to collaborate on everything!
-- 😄 Eager to take on new challenges and contribute to meaningful, impactful                                                                                         
-             projects.
+- 😄 Eager to take on new challenges and contribute to meaningful, impactful  projects.
 - ⚡ Email: elviskipchumba60@gmail.com
 
 
