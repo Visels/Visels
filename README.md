@@ -1,4 +1,4 @@
-                                                                                        ###  Hi there, I'm Elvis  👋 
+###  Hi there, I'm Elvis  👋 
 
 
 <!-- - 🤔 I’m looking for help with . -->
@@ -10,12 +10,9 @@
              projects.
 - ⚡ Email: elviskoech17@gmail.com
 
-https://github-readme-stats-five-psi-34.vercel.app 
-https://github-readme-stats-update-wheat.vercel.app/
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)//
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -58,6 +55,8 @@ https://github-readme-stats-update-wheat.vercel.app/
  ####1. powernet - React, Spri
  <br>
  ####2. 
+
+ [//]: # (This may be the most platform independent comment)
    
  
 
