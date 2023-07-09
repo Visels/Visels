@@ -8,13 +8,15 @@
 - 👯 I’m looking to collaborate on everything!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful                                                                                         
              projects.
-- ⚡ Email: elviskoech17@gmail.com
+- ⚡ Email: elviskipchumba60@gmail.com
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)//
+<!---
+![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ### Languages and Tools:
 
@@ -50,13 +52,13 @@
 <br>
 <br>
    
-   
+  <!---
   ### Projects:
  ####1. powernet - React, Spri
  <br>
  ####2. 
+--->
 
- [//]: # (This may be the most platform independent comment)
    
  
 
