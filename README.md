@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on everything interesting!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful  projects.
 - ⚡ Email: elviskipchumba60@gmail.com
-- 💼 Portfolio: <a href="www.google.com"> Welcome to the circus!</a>
+- 💼 Portfolio: <a href="www.google.com" target = "_blank"> Welcome to the circus!</a>
 
 
 
@@ -19,7 +19,10 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" alt="Image 1" style="flex: 1;object-fit: contain; height: 200px;">
-    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php&layout=compact&hide_progress=true" alt="Image 2" style="flex: 1; object-fit: contain; height: 200px;">
+    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" alt="Image 1" style="flex: 1;object-fit: contain; height: 200px;">
+    
+    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact&card_width=100"&hide_progress=true" alt="Image 2" 
+style="flex: 1; object-fit: contain; height: 200px;">
 </div>
 
 
