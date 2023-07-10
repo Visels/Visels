@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on everything interesting!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful  projects.
 - ⚡ Email: elviskipchumba60@gmail.com
-- 💼 Portfolio: <a href="www.google.com"> Check out about me!</a>
+- 💼 Portfolio: <a href="www.google.com"> Welcome to the circus!</a>
 
 
 
