@@ -19,20 +19,13 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" alt="Image 1" style="flex: 1;">
-    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact" alt="Image 2" style="flex: 1;">
-</div>
-
-<div display="flex" flex-wrap="wrap">
-  <div flex = "1">
-    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" style="max-width: 100%; height: auto;" alt="Github Stats">
-  </div>
-  <div flex = "1">
-    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact" style="max-width: 100%; height: auto;" alt="Image 2">
-  </div>
+    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=scss,shell,php,Jupyter%20Notebookt&layout=compact" alt="Image 2" style="flex: 1;">
 </div>
 
 
 
+
+<!---
 
 <div display="flex">
   
@@ -46,7 +39,6 @@
 </div>
 
 
-<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=visels&&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
 ### Languages and Tools:
