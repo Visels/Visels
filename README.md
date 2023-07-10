@@ -19,7 +19,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" alt="Image 1" style="flex: 1;object-fit: contain; height: 200px;">
-    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=scss,shell,php,Jupyter%20Notebookt&layout=compact" alt="Image 2" style="flex: 1; object-fit: contain; height: 200px;">
+    <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=scss,shell,php,Jupyter%20Notebookt&layout=compact&hide_progress=true" alt="Image 2" style="flex: 1; object-fit: contain; height: 200px;">
 </div>
 
 
