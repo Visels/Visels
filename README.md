@@ -17,11 +17,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true)  [![Top Langs](https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript.CSS&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
+<div display="flex" flex-wrap="wrap">
+  <div flex = "1">
     <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api?username=visels&&include_all_commits=true&&count_private=true" style="max-width: 100%; height: auto;" alt="Github Stats">
   </div>
-  <div style="flex: 1;">
+  <div flex = "1">
     <img src="https://github-readme-stats-update-git-main-visels.vercel.app/api/top-langs/?username=visels&&size_weight=0.4&&count_weight=0.9&hide=html,scss,shell,php,Jupyter%20Notebook,TypeScript&layout=compact" style="max-width: 100%; height: auto;" alt="Image 2">
   </div>
 </div>
