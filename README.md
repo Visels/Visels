@@ -73,11 +73,12 @@
 <br>
 
  ###  Connect with me:
- <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />
+ <img align="left" alt="HTML5" width="26px" href="https://www.linkedin.com/in/elvis-kipchumba-koech-7777a4170/" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" style="padding-right:10px;" />
      <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" style="padding-right:10px;" />
 
-     https://cdn-icons-png.flaticon.com/128/733/733579.png
+https://cdn-icons-png.flaticon.com/128/4494/4494497.png
+   
 <br>
 <br>
    
@@ -85,6 +86,7 @@
   ### Projects:
  ####1. powernet - React, Spri
  https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png
+ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png
  <br>
  ####2. 
 --->
