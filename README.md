@@ -73,11 +73,11 @@
 <br>
 
  ###  Connect with me:
- <img align="left" alt="HTML5" width="26px" href="https://www.linkedin.com/in/elvis-kipchumba-koech-7777a4170/" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" style="padding-right:10px;" />
+ <img align="left" alt="HTML5" width="26px" href="https://www.linkedin.com/in/elvis-kipchumba-koech-7777a4170" src="https://cdn-icons-png.flaticon.com/128/4494/4494497.png" style="padding-right:10px;" />
     <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" style="padding-right:10px;" />
      <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" style="padding-right:10px;" />
 
-https://cdn-icons-png.flaticon.com/128/4494/4494497.png
+
    
 <br>
 <br>
