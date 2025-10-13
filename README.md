@@ -3,11 +3,11 @@
 
 <!-- - 🤔 I’m looking for help with . -->
 
-- 🔭 I’m currently working on Spring Security and DevOps
-- 🌱 I Develop : Angular JS, Spring-Boot, Flask, Django Applications
+- 🔭 I’m currently working on Agentic Automation Systems
+- 🌱 I Develop : LangGraph, LangChain, Langsmith Agent Systems
 - 👯 I’m looking to collaborate on everything interesting!
 - 😄 Eager to take on new challenges and contribute to meaningful, impactful  projects.
-- ⚡ Email: elviskipchumba60@gmail.com
+- ⚡ Email: ekoech17@gmail.com
 
 
 
